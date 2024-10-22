@@ -16,6 +16,6 @@ cd ~
 touch new_file.txt
 '''
 
-Artem* and **QA**
+*Artem* and **QA**
 
 

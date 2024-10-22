@@ -11,10 +11,10 @@
 [Дзен](dzen.ru)
 
 ### Пример кода
-'''
+```
 cd ~
 touch new_file.txt
-'''
+```
 
 *Artem* and **QA**
 
